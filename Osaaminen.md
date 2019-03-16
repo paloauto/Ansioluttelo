@@ -10,6 +10,10 @@
 
 -C++ olen tehnyt joitain projekteja koulussa ja pienellä kertauksella se alkaisi taas sujumaan.
 
+- Tajuan ja osaan soveltaa rajapintoja.
+
+- Ketterät menetelmät ovat tuttuja ja UML on hallussa.
+
 -python:lla oleln tehnyt lähoinnä joitain scriptejä linuxissa.
 
 -Web sivujen teko: HTML, css, javascript ovat hallussa tosin siitä on jonkin verran aikaa, kun olen viimeksi kotisivut tehnyt.
@@ -17,10 +21,18 @@
  
  -SQL on hyvin hallussa ja tunnen relaatiokannat.
  
+
+ 
  **Ohjelmistot ja rauta**
  
- -
+ - Rauta ja softa puoli on hallussa hyvin pöytäkoneista palvelimiin ja mikropiireihin. Olen aina tykännyt elektroniikasta ja välillä 
+   värkkäilen omia projekteja. 
+   
+  - Apache ja hadoop ovat tällä hetkellä kotona käytössä, koska tarvitsen Clusteria. Apachen hallitsen ja se on muutakin kuin alusta
+    kotisivujen pitoon.
  
- 
+ Sami Sobori
+ Mobile: 0400316803
+ sami.sobori@gmail.com
 
-**Ohjlmointi osaaminen:** Java, Python, C, Linux ja Windows käyttöjärjestelmät ovat hallussa. C:llä ja Pythonilla olen kirjoittanut Ohjelmia ja Scriptejä enimmäkseen Linux ympäristössä. Tunnen relaatiotietokannaat suht hyvin, SQL on minulle tuttua. Tiedonlouhinta on jokseenkin hallussa ja se onkin suuri mielenkiinnon kohteeni, data-algoritmit......
+*Tiedonlouhinta on jokseenkin hallussa ja se onkin suuri mielenkiinnon kohteeni, data-algoritmit......*
