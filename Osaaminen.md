@@ -14,7 +14,7 @@
 
 - Ketterät menetelmät ovat tuttuja ja UML on hallussa.
 
--python:lla oleln tehnyt lähoinnä joitain scriptejä linuxissa.
+-python:lla oleln tehnyt lähinnä joitain scriptejä linuxissa.
 
 -Web sivujen teko: HTML, css, javascript ovat hallussa tosin siitä on jonkin verran aikaa, kun olen viimeksi kotisivut tehnyt.
  seuraan tiiviisti kyllä koko ajan mitä tekniikoita on käytössä ja esim tällä hetkellä React on kova sana.
@@ -30,6 +30,7 @@
    
   - Apache ja hadoop ovat tällä hetkellä kotona käytössä, koska tarvitsen Clusteria. Apachen hallitsen ja se on muutakin kuin alusta
     kotisivujen pitoon.
+    
  
  Sami Sobori
  Mobile: 0400316803
